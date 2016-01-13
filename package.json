@@ -1,0 +1,16 @@
+{
+  "title": "ResTek Content",
+  "name": "restek-content",
+  "version": "0.0.1",
+  "description": "Tools to make updating content a little easier.",
+  "main": "index.js",
+  "author": "Paul Von Zimmerman",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
